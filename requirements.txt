@@ -1,0 +1,5 @@
+transformers
+SentencePiece
+openai
+datasets
+python-dotenv
